@@ -4,7 +4,7 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## UPDATE BELOW: Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **UPDATE** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+This workshop is primarily hands-on practice with **OneDrive** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **UPDATE BELOW: 5-10 minutes.**<br>
 - OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
