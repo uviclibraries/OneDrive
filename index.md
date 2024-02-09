@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
+
 <img src="images/onedrive-logo.png" style="float:right;width:180px;" alt="OneDrive Logo">
 
 ## Why OneDrive? 
