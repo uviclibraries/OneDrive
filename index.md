@@ -6,31 +6,24 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+## Why OneDrive? 
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+[OneDrive](https://portal.office.com/){:target="_blank"} is a user friendly tool that helps people organize and share their files. It can be useful for school or work and promotes document collaboration where you can make suggestions (Edit, View, Review (aka suggest changes) & Including non-UVic Office 365 users). You can use the Web App or the programs and all the data is stored within Canada. 
 
-## Why TOOL NAME HERE? 
+As A UVic student, you have access to OneDrive until you graduate [here](https://onlineservices.uvic.ca/){:target="_blank"}. Once you have signed up, login to [portal.office.com](portal.office.com){:target="_blank"} with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
-
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
-
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Describe the use cases and benefits of using OneDrive
+2. Describe the limitations of OneDrive
+3. Log on to Office 365 via the web using UVic email address
+4. Edit files via the web
+5. Organize & Add folders via the web
+6. Share & Collaborate on files via the web (Edit, View, Review (aka suggest changes))
+7. OPTIONAL: Install the OneDrive client on a laptop & log on using UVic email address
+8. OPTIONAL: Save files to one drive on a laptop
+
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
