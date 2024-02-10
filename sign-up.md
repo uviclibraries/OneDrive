@@ -24,4 +24,6 @@ parent: Workshop Activities
     }
 </script>
 
+[NEXT STEP: Create and Upload Documents](create-docs.html){: .btn .btn-blue }
+
 
