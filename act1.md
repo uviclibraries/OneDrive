@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1- One Drive Sign Up and uploading
+title: 1- OneDrive Sign Up and uploading
 nav_order: 2
 parent: Workshop Activities
 ---
