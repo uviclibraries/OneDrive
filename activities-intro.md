@@ -12,4 +12,4 @@ parent: Workshop Activities
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **UPDATE**
-[NEXT STEP: Activity 1](act1.html){: .btn .btn-blue }
+[NEXT STEP: OneDrive Sign Up](sign-up.html){: .btn .btn-blue }
