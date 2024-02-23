@@ -3,7 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## Workshop Videos & Activities
+## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with **OneDrive** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **5 minutes**<br>
